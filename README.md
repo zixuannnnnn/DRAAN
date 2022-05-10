@@ -1,7 +1,8 @@
 # DRAAN
+# “Deep residual adaptive attention network for image super-resolution”
 
-#《基于自适应注意力的深度残差图像超分辨率重建》
+# 《基于自适应注意力的深度残差图像超分辨率重建》
 
-#因原文件内容过多，故上传压缩文件
+# 代码具体细节内容和参数环境设置见论文
 
-#代码具体细节内容和参数环境设置见论文
+
